@@ -1,8 +1,8 @@
 export const siteMetadata = {
-  title: "My Tech Blog",
-  author: "Your Name",
-  headerTitle: "TechBlog",
-  description: "A blog about web development, programming, and technology",
+  title: "infinityInfo",
+  author: "Pankaj",
+  headerTitle: "Info",
+  description: "A blog about yojana, scheme, Results , Govt exam",
   language: "en-us",
   theme: "system",
   siteUrl: "https://yourblog.com",
